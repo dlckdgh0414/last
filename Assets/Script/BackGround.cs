@@ -5,7 +5,7 @@ using UnityEngine;
 public class BackGround : MonoBehaviour
 {
     private float Speed = 5f;
-    private float scorll = 9.9f;
+    private float scorll = 9.5f;
     public Transform target;
     void Update()
     {
